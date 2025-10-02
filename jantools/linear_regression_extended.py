@@ -10,6 +10,12 @@
 ===============================================================================
 """
 import numpy as np
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import SGDRegressor
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import mean_squared_error
 
 def f_wb(w,x,b):
     return np.dot(w,x) + b
@@ -64,3 +70,19 @@ def run_gradient_descent(x,y,w_in,b_in,alpha,num_iterations):
 
 
     return w,b,grad_step_w,grad_step_b,computed_costs
+
+def polynomial_scikit(X,y):
+    poly = PolynomialFeatures(degree=2)
+    X_poly = poly.fit_transform(X)
+
+    model = LinearRegression()
+
+    sgdr_costs = []
+    y_pred = []
+
+    for i in range(50):
+        model.fit(X_poly, y)
+        y_pred = model.predict(X_poly)
+        sgdr_costs.append(mean_squared_error(y, y_pred) * 0.5)
+
+    return y_pred, sgdr_costs
