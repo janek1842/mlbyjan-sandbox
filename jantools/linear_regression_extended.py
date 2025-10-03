@@ -54,20 +54,15 @@ def run_gradient_descent(x,y,w_in,b_in,alpha,num_iterations):
 
     for i in range(num_iterations):
 
-        # print("##########")
         step_w = compute_gradient(x,y,w,b)[0]
         w = w - alpha*step_w
         grad_step_w.append(w)
-        # print("Iteration: ", i," gradient step w: ",step_w)
 
         step_b=compute_gradient(x,y,w,b)[1]
         b = b - alpha*step_b
         grad_step_b.append(b)
-        # print("Iteration: ", i, " gradient step b: ", step_b)
 
         computed_costs.append(compute_cost(w,y,x,b))
-        # print("##########")
-
 
     return w,b,grad_step_w,grad_step_b,computed_costs
 
