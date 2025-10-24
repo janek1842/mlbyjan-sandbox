@@ -1,0 +1,602 @@
+[
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 1,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 0,
+    "flu": 0
+  },
+  {
+    "fever": 0,
+    "cough": 1,
+    "fatigue": 1,
+    "flu": 1
+  },
+  {
+    "fever": 0,
+    "cough": 0,
+    "fatigue": 1,
+    "flu": 0
+  },
+  {
+    "fever": 1,
+    "cough": 1,
+    "fatigue": 0,
+    "flu": 1
+  }
+]
