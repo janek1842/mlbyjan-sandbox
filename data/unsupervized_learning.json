@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "throughput": 90.38,
+    "latency": 15.47
+  },
+  {
+    "id": 2,
+    "throughput": 98.81,
+    "latency": 17.69
+  },
+  {
+    "id": 3,
+    "throughput": 94.76,
+    "latency": 12.63
+  },
+  {
+    "id": 4,
+    "throughput": 101.21,
+    "latency": 8.22
+  },
+  {
+    "id": 5,
+    "throughput": 87.6,
+    "latency": 10.24
+  },
+  {
+    "id": 6,
+    "throughput": 96.98,
+    "latency": 5.68
+  },
+  {
+    "id": 7,
+    "throughput": 92.27,
+    "latency": 15.05
+  },
+  {
+    "id": 8,
+    "throughput": 99.56,
+    "latency": 12.57
+  },
+  {
+    "id": 9,
+    "throughput": 100.5,
+    "latency": 10.15
+  },
+  {
+    "id": 10,
+    "throughput": 99.39,
+    "latency": 10.19
+  },
+  {
+    "id": 11,
+    "throughput": 88.67,
+    "latency": 10.86
+  },
+  {
+    "id": 12,
+    "throughput": 101.93,
+    "latency": 8.56
+  },
+  {
+    "id": 13,
+    "throughput": 106.32,
+    "latency": 14.83
+  },
+  {
+    "id": 14,
+    "throughput": 96.14,
+    "latency": 10.67
+  },
+  {
+    "id": 15,
+    "throughput": 88.21,
+    "latency": 7.47
+  },
+  {
+    "id": 16,
+    "throughput": 110.25,
+    "latency": 12.37
+  },
+  {
+    "id": 17,
+    "throughput": 91.74,
+    "latency": 8.6
+  },
+  {
+    "id": 18,
+    "throughput": 85.5,
+    "latency": 7.02
+  },
+  {
+    "id": 19,
+    "throughput": 102.63,
+    "latency": 15.14
+  },
+  {
+    "id": 20,
+    "throughput": 89.69,
+    "latency": 11.44
+  },
+  {
+    "id": 21,
+    "throughput": 110.5,
+    "latency": 12.53
+  },
+  {
+    "id": 22,
+    "throughput": 98.88,
+    "latency": 8.92
+  },
+  {
+    "id": 23,
+    "throughput": 83.04,
+    "latency": 10.97
+  },
+  {
+    "id": 24,
+    "throughput": 110.15,
+    "latency": 12.63
+  },
+  {
+    "id": 25,
+    "throughput": 116.74,
+    "latency": 13.24
+  },
+  {
+    "id": 26,
+    "throughput": 111.71,
+    "latency": 9.76
+  },
+  {
+    "id": 27,
+    "throughput": 98.51,
+    "latency": 16.31
+  },
+  {
+    "id": 28,
+    "throughput": 87.38,
+    "latency": 12.91
+  },
+  {
+    "id": 29,
+    "throughput": 97.72,
+    "latency": 9.87
+  },
+  {
+    "id": 30,
+    "throughput": 95.68,
+    "latency": 11.52
+  },
+  {
+    "id": 31,
+    "throughput": 99.71,
+    "latency": 13.16
+  },
+  {
+    "id": 32,
+    "throughput": 116.08,
+    "latency": 12.15
+  },
+  {
+    "id": 33,
+    "throughput": 107.71,
+    "latency": 13.76
+  },
+  {
+    "id": 34,
+    "throughput": 83.88,
+    "latency": 12.98
+  },
+  {
+    "id": 35,
+    "throughput": 109.53,
+    "latency": 6.69
+  },
+  {
+    "id": 36,
+    "throughput": 119.41,
+    "latency": 10.07
+  },
+  {
+    "id": 37,
+    "throughput": 105.32,
+    "latency": 6.58
+  },
+  {
+    "id": 38,
+    "throughput": 74.86,
+    "latency": 11.19
+  },
+  {
+    "id": 39,
+    "throughput": 86.0,
+    "latency": 15.72
+  },
+  {
+    "id": 40,
+    "throughput": 91.8,
+    "latency": 10.54
+  },
+  {
+    "id": 41,
+    "throughput": 93.54,
+    "latency": 10.01
+  },
+  {
+    "id": 42,
+    "throughput": 109.44,
+    "latency": 13.75
+  },
+  {
+    "id": 43,
+    "throughput": 108.18,
+    "latency": 10.53
+  },
+  {
+    "id": 44,
+    "throughput": 118.59,
+    "latency": 11.84
+  },
+  {
+    "id": 45,
+    "throughput": 106.72,
+    "latency": 14.22
+  },
+  {
+    "id": 46,
+    "throughput": 97.66,
+    "latency": 12.3
+  },
+  {
+    "id": 47,
+    "throughput": 114.68,
+    "latency": 13.85
+  },
+  {
+    "id": 48,
+    "throughput": 111.9,
+    "latency": 15.75
+  },
+  {
+    "id": 49,
+    "throughput": 98.65,
+    "latency": 9.92
+  },
+  {
+    "id": 50,
+    "throughput": 106.45,
+    "latency": 11.19
+  },
+  {
+    "id": 51,
+    "throughput": 105.82,
+    "latency": 13.26
+  },
+  {
+    "id": 52,
+    "throughput": 93.68,
+    "latency": 12.6
+  },
+  {
+    "id": 53,
+    "throughput": 98.04,
+    "latency": 12.0
+  },
+  {
+    "id": 54,
+    "throughput": 83.39,
+    "latency": 10.31
+  },
+  {
+    "id": 55,
+    "throughput": 94.12,
+    "latency": 11.59
+  },
+  {
+    "id": 56,
+    "throughput": 110.1,
+    "latency": 13.14
+  },
+  {
+    "id": 57,
+    "throughput": 115.86,
+    "latency": 11.71
+  },
+  {
+    "id": 58,
+    "throughput": 93.65,
+    "latency": 13.58
+  },
+  {
+    "id": 59,
+    "throughput": 98.13,
+    "latency": 11.62
+  },
+  {
+    "id": 60,
+    "throughput": 82.16,
+    "latency": 5.69
+  },
+  {
+    "id": 61,
+    "throughput": 101.16,
+    "latency": 10.21
+  },
+  {
+    "id": 62,
+    "throughput": 102.05,
+    "latency": 12.03
+  },
+  {
+    "id": 63,
+    "throughput": 106.02,
+    "latency": 13.03
+  },
+  {
+    "id": 64,
+    "throughput": 111.09,
+    "latency": 13.42
+  },
+  {
+    "id": 65,
+    "throughput": 97.47,
+    "latency": 13.78
+  },
+  {
+    "id": 66,
+    "throughput": 99.56,
+    "latency": 12.23
+  },
+  {
+    "id": 67,
+    "throughput": 93.91,
+    "latency": 11.13
+  },
+  {
+    "id": 68,
+    "throughput": 83.14,
+    "latency": 14.19
+  },
+  {
+    "id": 69,
+    "throughput": 116.67,
+    "latency": 18.79
+  },
+  {
+    "id": 70,
+    "throughput": 90.28,
+    "latency": 15.58
+  },
+  {
+    "id": 71,
+    "throughput": 91.79,
+    "latency": 10.13
+  },
+  {
+    "id": 72,
+    "throughput": 105.87,
+    "latency": 15.3
+  },
+  {
+    "id": 73,
+    "throughput": 101.07,
+    "latency": 14.19
+  },
+  {
+    "id": 74,
+    "throughput": 107.54,
+    "latency": 7.6
+  },
+  {
+    "id": 75,
+    "throughput": 94.23,
+    "latency": 11.25
+  },
+  {
+    "id": 76,
+    "throughput": 85.87,
+    "latency": 14.63
+  },
+  {
+    "id": 77,
+    "throughput": 89.61,
+    "latency": 8.64
+  },
+  {
+    "id": 78,
+    "throughput": 103.96,
+    "latency": 17.03
+  },
+  {
+    "id": 79,
+    "throughput": 99.6,
+    "latency": 8.73
+  },
+  {
+    "id": 80,
+    "throughput": 87.31,
+    "latency": 17.19
+  },
+  {
+    "id": 81,
+    "throughput": 98.72,
+    "latency": 11.26
+  },
+  {
+    "id": 82,
+    "throughput": 100.99,
+    "latency": 10.72
+  },
+  {
+    "id": 83,
+    "throughput": 63.44,
+    "latency": 14.35
+  },
+  {
+    "id": 84,
+    "throughput": 108.09,
+    "latency": 10.18
+  },
+  {
+    "id": 85,
+    "throughput": 96.73,
+    "latency": 8.58
+  },
+  {
+    "id": 86,
+    "throughput": 103.46,
+    "latency": 9.68
+  },
+  {
+    "id": 87,
+    "throughput": 110.59,
+    "latency": 12.2
+  },
+  {
+    "id": 88,
+    "throughput": 85.58,
+    "latency": 8.09
+  },
+  {
+    "id": 89,
+    "throughput": 106.65,
+    "latency": 8.48
+  },
+  {
+    "id": 90,
+    "throughput": 101.73,
+    "latency": 10.06
+  },
+  {
+    "id": 91,
+    "throughput": 247.93,
+    "latency": 236.23
+  },
+  {
+    "id": 92,
+    "throughput": 16.38,
+    "latency": 161.52
+  },
+  {
+    "id": 93,
+    "throughput": 8.73,
+    "latency": 240.97
+  },
+  {
+    "id": 94,
+    "throughput": 15.43,
+    "latency": 175.78
+  },
+  {
+    "id": 95,
+    "throughput": 226.81,
+    "latency": 117.71
+  },
+  {
+    "id": 96,
+    "throughput": 6.36,
+    "latency": 219.72
+  },
+  {
+    "id": 97,
+    "throughput": 193.06,
+    "latency": 246.59
+  },
+  {
+    "id": 98,
+    "throughput": 165.52,
+    "latency": 132.42
+  },
+  {
+    "id": 99,
+    "throughput": 185.47,
+    "latency": 224.07
+  },
+  {
+    "id": 100,
+    "throughput": 231.54,
+    "latency": 170.89
+  }
+]
